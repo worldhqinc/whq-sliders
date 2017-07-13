@@ -47,6 +47,7 @@ Use this gallery for elements that have auto-swapping images. Give your slides a
 import { FlashingGallery } from 'whq-sliders'
 
 // new FlashingGallery(element, transitionSpeed)
+// transitionSpeed defaults to 500ms
 
 const element = document.querySelector('.partners-flashing-gallery')
 const myGallery = new FlashingGallery(element, 3000)
