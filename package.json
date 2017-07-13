@@ -1,6 +1,6 @@
 {
   "name": "whq-sliders",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple JavaScript sliders and galleries.",
   "main": "index.js",
   "repository": {
