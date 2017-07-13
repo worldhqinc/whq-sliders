@@ -1,0 +1,19 @@
+{
+  "name": "whq-sliders",
+  "version": "0.1.0",
+  "description": "Simple JavaScript sliders and galleries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://worldhqinc@github.com/worldhqinc/whq-sliders.git"
+  },
+  "author": "WHQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldhqinc/whq-sliders/issues"
+  },
+  "homepage": "https://github.com/worldhqinc/whq-sliders#readme"
+}
