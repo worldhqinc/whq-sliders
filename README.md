@@ -49,7 +49,7 @@ import { FlashingGallery } from 'whq-sliders'
 // new FlashingGallery(element, transitionSpeed)
 // transitionSpeed defaults to 500ms
 
-const element = document.querySelector('.partners-flashing-gallery')
+const element = document.querySelector('.my-gallery')
 const myGallery = new FlashingGallery(element, 3000)
 myGallery.init()
 ```
